@@ -1,5 +1,5 @@
 # Purpose of Soulbound
-Octan Soulbound contracts are to allow users mint Soulbound Token (SBT), carrying their reputation scores provided by Octan Reputation Ranking System, then building their trustworthiness in Web3 space. Visit Octan Reputation Ranking Scoring algorithm and framework here https://github.com/Octan-Labs/Reputation-scoring
+Octan Soulbound contracts are to allow users mint Soulbound Token (SBT), carrying their reputation scores provided by Octan Reputation Ranking System, then building their trustworthiness in Web3 space. Visit Octan Reputation Ranking Scoring algorithm and framework here https://github.com/Octan-Labs/Reputation-scoring. Octan onchain data processing pipeline here https://github.com/Octan-Labs/pipeline.
 
 # Octan SoulBound Contracts
 

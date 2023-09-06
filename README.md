@@ -5,6 +5,8 @@ Octan Soulbound contracts are to allow users mint Soulbound Token (SBT), carryin
 
 The smart contract source code, written in Solidity, of the Octan 1ID Project has been verified by [Verichain](https://www.verichains.io/). You can access the verification report by following this [link](https://github.com/verichains/public-audit-reports/blob/main/Verichains%20Public%20Audit%20Report%20-%20Octan%20Soulbound%20Token%20-%20v1.1.pdf).  
 
+Mint Octan SBT (on BNB Chain mainnet) to carry and update reputation scores: https://octan.network/1-id  
+
 Octan Soulbound contracts has been deployed on mainnets of:
 - **BNB Chain**:
   - Management	0x70B88A6d3c2c5DdD0301e87EDd77099e69a1c77E  

@@ -3,7 +3,7 @@ Octan Soulbound contracts are to allow users mint Soulbound Token (SBT), carryin
 
 # Octan SoulBound Contracts
 
-The smart contract source code, written in Solidity, of the Octan 1ID Project has been verified by [Verichain](https://www.verichains.io/). You can access the verification report by following this [link](https://github.com/verichains/public-audit-reports/blob/main/Verichains%20Public%20Audit%20Report%20-%20Octan%20Soulbound%20Token%20-%20v1.1.pdf).  
+The smart contract source code, written in Solidity, of the Octan 1ID Project has been auditted and verified by [Verichain](https://www.verichains.io/). You can access the audit report by following this [link](https://github.com/verichains/public-audit-reports/blob/main/Verichains%20Public%20Audit%20Report%20-%20Octan%20Soulbound%20Token%20-%20v1.1.pdf).  
 
 Mint Octan SBT (on BNB Chain mainnet) to carry and update reputation scores: https://octan.network/1-id  
 
@@ -16,6 +16,13 @@ Octan Soulbound contracts has been deployed on mainnets of:
   - Management	0x3D0B6850B8C10174437cCD82A55786403f6875dc
   - Reputation	0x4dC69dD4601D37BF8141a563Dc26394a2A7A6810
   - Minter	0x11D0a90608Af97B95E0Ec58DCc3ffC1abB77E3C8
+
+Octan Soulbound contracts on NEO-EVM testnet:  
+- Management: https://evm.ngd.network/address/0xeb67683da8C22Aa80B2A4bB3331EAa2DBad6Fe71/contracts#address-tabs
+- Reputation: https://evm.ngd.network/address/0x471a924A47F9E968aE6DBF822d9d76a0fd731993/contracts#address-tabs
+- Minter: https://evm.ngd.network/address/0x48d4591D726232DA353fa315BBeC707211A774A4/contracts#address-tabs
+- Updater: https://evm.ngd.network/address/0x7948DEf047b7d6436630167aC498FE47B36fe8a9/contracts#address-tabs
+
 ### Requirements
 
 - Installations:
